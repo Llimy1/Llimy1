@@ -61,6 +61,6 @@ Here are some ideas to get you started:
 ### ⚙️ &nbsp;GitHub Analytics
 
 <div>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Llimy1&layout=compact&theme=algolia&include_all_commits=true&count_private=true""/><br><br>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Llimy1&layout=compact&theme=algolia"/><br><br>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Llimy1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </div>  
