@@ -64,3 +64,5 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Llimy1&layout=compact&theme=algolia"/><br><br>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Llimy1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </div>  
+
+<img src="https://github.com/Llimy1/Llimy1/blob/output/github-contribution-grid-snake.svg"/>
