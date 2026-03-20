@@ -29,8 +29,6 @@ Here are some ideas to get you started:
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=300&duration=3000&pause=1000&color=FFFFFF&background=000000&vCenter=true&multiline=true&repeat=false&random=false&width=500&height=200&lines=%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D;%5B%2B%5D+Building+2.1s+(15%2F15)+FINISHED++;Welcome+to+Llimy1's+GitHub!!;%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D;Llimy1-Github%3A~Hi+%24+%7C)](https://git.io/typing-svg)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsaranghein&count_bg=%23E08FFF&title_bg=%239622F4&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-
 ### 🛠 &nbsp;Tech Stack
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
