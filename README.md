@@ -62,5 +62,4 @@ Here are some ideas to get you started:
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Llimy1&langs_count=10&layout=compact&theme=dark)
 ![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Llimy1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
